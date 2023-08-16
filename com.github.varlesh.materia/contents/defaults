@@ -15,10 +15,10 @@ ToolButtonStyle=NoText
 ToolButtonStyleOtherToolbars=NoText
 
 [kdeglobals][Icons]
-Theme=Papirus
+Theme=Fluent-yellow
 
 [plasmarc][Theme]
-name=Materia
+name=NKSOS
 
 [kwinrc][org.kde.kdecoration2]
 library=org.kde.kwin.aurorae
@@ -26,7 +26,7 @@ theme=__aurorae__svg__Materia
 BorderSize=None
 
 [kcminputrc][Mouse]
-cursorTheme=material_cursors
+cursorTheme=Afterglow-Recolored-Catppuccin-Sky-v2
 
 [Wallpaper]
-Image=Materia
+Image=nks-wallpaper-old
